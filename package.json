@@ -1,0 +1,9 @@
+{
+  "name": "Youtube downloader",
+  "dependencies": {
+    "colors": "latest",
+    "ytdl-core": "latest",
+    "egg": "latest",
+    "sanitize-filename": "latest"
+  }
+}
