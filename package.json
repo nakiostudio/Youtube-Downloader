@@ -3,7 +3,6 @@
   "dependencies": {
     "colors": "latest",
     "ytdl-core": "latest",
-    "egg": "latest",
     "sanitize-filename": "latest"
   }
 }
